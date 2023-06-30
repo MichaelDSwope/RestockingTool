@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\RestockingTool.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\RestockingTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\RestockingTool.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\RestockingTool.AssemblyInfo.cs
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\RestockingTool.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\RestockingTool\bin\Debug\net6.0\RestockingTool.exe
+C:\Users\Digit\source\repos\RestockingTool\bin\Debug\net6.0\RestockingTool.deps.json
+C:\Users\Digit\source\repos\RestockingTool\bin\Debug\net6.0\RestockingTool.runtimeconfig.json
+C:\Users\Digit\source\repos\RestockingTool\bin\Debug\net6.0\RestockingTool.dll
+C:\Users\Digit\source\repos\RestockingTool\bin\Debug\net6.0\RestockingTool.pdb
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\RestockingTool.dll
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\refint\RestockingTool.dll
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\RestockingTool.pdb
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\RestockingTool.genruntimeconfig.cache
+C:\Users\Digit\source\repos\RestockingTool\obj\Debug\net6.0\ref\RestockingTool.dll
